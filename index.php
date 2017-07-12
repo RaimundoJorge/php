@@ -1,5 +1,5 @@
 <?php
 
-echo "<strong>Treinando GIT, PHP!</strong>";
+echo "Olá mundo";
 
 ?>
